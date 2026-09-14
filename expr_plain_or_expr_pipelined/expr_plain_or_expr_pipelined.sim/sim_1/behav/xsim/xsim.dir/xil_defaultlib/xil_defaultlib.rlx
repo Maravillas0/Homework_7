@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/Homework_7/expr_plain_or_expr_pipelined/expr_plain_or_expr_pipelined.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+D:/Homework_7/expr_plain_or_expr_pipelined/expr_plain_or_expr_pipelined.srcs/sim_1/new/expr_plain_expr_pipelined_tb.sv,1789388181,systemVerilog,,,,expr_pipelined_tb,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Homework_7/expr_plain_or_expr_pipelined/expr_plain_or_expr_pipelined.srcs/sources_1/new/expr_pipelined.sv,1789388063,systemVerilog,,D:/Homework_7/expr_plain_or_expr_pipelined/expr_plain_or_expr_pipelined.srcs/sources_1/new/expr_plain.sv,,expr_pipelined,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Homework_7/expr_plain_or_expr_pipelined/expr_plain_or_expr_pipelined.srcs/sources_1/new/expr_plain.sv,1789386847,systemVerilog,,D:/Homework_7/expr_plain_or_expr_pipelined/expr_plain_or_expr_pipelined.srcs/sim_1/new/expr_plain_expr_pipelined_tb.sv,,expr_plain,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

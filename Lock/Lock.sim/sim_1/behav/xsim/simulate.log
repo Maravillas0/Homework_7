@@ -1,0 +1,1647 @@
+Time resolution is 1 ps
+[20000 ns] after reset state ---> LOCKED (expected LOCKED)
+[25000 ns] digit_clean state ----> xxxx
+[26000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[36000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[46000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[56000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[66000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[76000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[86000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[96000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[106000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[116000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[126000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[136000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[146000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[156000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[166000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[176000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[186000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[196000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[206000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[216000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[226000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[236000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[246000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[256000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[266000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[276000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[286000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[296000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[306000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[316000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[326000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[336000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[346000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[356000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[366000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[376000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[386000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[396000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[406000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[416000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[426000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[436000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[446000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[456000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[466000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[476000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[486000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[496000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[506000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[516000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[526000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[536000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[546000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[556000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[566000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[576000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[586000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[596000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[606000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[616000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[626000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[636000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[646000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[656000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[666000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[676000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[686000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[696000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[706000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[716000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[726000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[736000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[746000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[756000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[766000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[776000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[786000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[796000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[806000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[816000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[826000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[836000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[846000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[856000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[866000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[876000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[886000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[896000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[906000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[916000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[926000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[936000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[946000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[956000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[966000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[976000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[986000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[996000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1006000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1016000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1026000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1036000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1046000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1056000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1066000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1076000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1086000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1096000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1106000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1116000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1126000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1136000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1146000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1156000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1166000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1176000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1186000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1196000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1206000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1216000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1226000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1236000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1246000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1256000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1266000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1276000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1286000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1296000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1306000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1316000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1326000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1336000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1346000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1356000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1366000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1376000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1386000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1396000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1406000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1416000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1426000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1436000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1446000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1456000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1466000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1476000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1486000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1496000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1506000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1516000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1526000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1536000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1546000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1556000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1566000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1576000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1586000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1596000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1606000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1616000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1626000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1636000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1646000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1656000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1666000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1676000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1686000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1696000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1706000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1716000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1726000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1736000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1746000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1756000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1766000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1776000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1786000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1796000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1806000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1816000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1826000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1836000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1846000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1856000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1866000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1876000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1886000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1896000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1906000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1916000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1926000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1936000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1946000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1956000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1966000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1976000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1986000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1996000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2006000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2016000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2026000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2036000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2046000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2056000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2066000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2076000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2086000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2096000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2106000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2116000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2126000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2136000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2146000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2156000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2166000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2176000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2186000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2196000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2206000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2216000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2226000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2236000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2246000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2256000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2266000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2276000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2286000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2296000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2306000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2316000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2326000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2336000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2346000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2356000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2366000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2376000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2386000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2396000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2406000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2416000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2426000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2436000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2446000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2456000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2466000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2476000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2486000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2496000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2506000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2516000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2526000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2536000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2546000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2556000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2566000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2576000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2586000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2596000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2606000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2616000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2626000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2636000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2646000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2656000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2666000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2676000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2686000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2696000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2706000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2716000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2726000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2736000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2746000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2756000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2766000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2776000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2786000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2796000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2806000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2816000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2826000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2836000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2846000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2856000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2866000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2876000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2886000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2896000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2906000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2916000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2926000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2936000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2946000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2956000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2966000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2976000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2986000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2996000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3006000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3016000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3026000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3036000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3046000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3056000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3066000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3076000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3086000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3096000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3106000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3116000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3126000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3136000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3146000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3156000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3166000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3176000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3186000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3196000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3206000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3216000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3226000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3236000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3246000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3256000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3266000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3276000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3286000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3296000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3306000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3316000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3326000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3336000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3346000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3356000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3366000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3376000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3386000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3396000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3406000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3416000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3426000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3436000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3446000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3456000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3466000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3476000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3486000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3496000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3506000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3516000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3526000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3536000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3546000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3556000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3566000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3576000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3586000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3596000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3606000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3616000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3626000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3636000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3646000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3656000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3666000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3676000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3686000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3696000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3706000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3716000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3726000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3736000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3746000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3756000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3766000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3776000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3786000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3796000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3806000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3816000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3826000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3836000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3846000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3856000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3866000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3876000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3886000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3896000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3906000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3916000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3926000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3936000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3946000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3956000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3966000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3976000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3986000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3996000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4006000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4016000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4026000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4036000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4046000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4056000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4066000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4076000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4086000 ns] [PASS] WAIT_D2 <--- State  correct digit 
+[4096000 ns] [PASS] WAIT_D2 <--- State  correct digit 
+[4106000 ns] [PASS] WAIT_D2 <--- State  correct digit 
+[4116000 ns] [PASS] WAIT_D2 <--- State  correct digit 
+[4126000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4136000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4146000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4156000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4166000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4176000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4186000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4196000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4206000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4216000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4226000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4236000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4246000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4256000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4266000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4276000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4286000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4296000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4306000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4316000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4326000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4336000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4346000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4356000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4366000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4376000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4386000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4396000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4406000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4416000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4426000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4436000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4446000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4456000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4466000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4476000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4486000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4496000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4506000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4516000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4526000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4536000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4546000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4556000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4566000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4576000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4586000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4596000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4606000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4616000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4626000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4636000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4646000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4656000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4666000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4676000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4686000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4696000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4706000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4716000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4726000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4736000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4746000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4756000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4766000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4776000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4786000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4796000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4806000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4816000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4826000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4836000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4846000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4856000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4866000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4876000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4886000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4896000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4906000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4916000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4926000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4936000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4946000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4956000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4966000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4976000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4986000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4996000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5006000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5016000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5026000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5036000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5046000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5056000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5066000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5076000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5086000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5096000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5106000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5116000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5126000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5136000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5146000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5156000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5166000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5176000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5186000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5196000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5206000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5216000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5226000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5236000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5246000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5256000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5266000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5276000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5286000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5296000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5306000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5316000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5326000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5336000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5346000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5356000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5366000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5376000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5386000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5396000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5406000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5416000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5426000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5436000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5446000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5456000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5466000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5476000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5486000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5496000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5506000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5516000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5526000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5536000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5546000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5556000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5566000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5576000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5586000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5596000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5606000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5616000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5626000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5636000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5646000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5656000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5666000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5676000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5686000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5696000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5706000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5716000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5726000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5736000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5746000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5756000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5766000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5776000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5786000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5796000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5806000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5816000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5826000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5836000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5846000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5856000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5866000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5876000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5886000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5896000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5906000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5916000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5926000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5936000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5946000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5956000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5966000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5976000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5986000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5996000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6006000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6016000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6026000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6036000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6046000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6056000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6066000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6076000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6086000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6096000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6106000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6116000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6126000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6136000 ns] [PASS] WAIT_D3 <--- State  correct digit 
+[6146000 ns] [PASS] WAIT_D3 <--- State  correct digit 
+[6156000 ns] [PASS] WAIT_D3 <--- State  correct digit 
+[6166000 ns] [PASS] WAIT_D3 <--- State  correct digit 
+[6176000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6186000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6196000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6206000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6216000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6226000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6236000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6246000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6256000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6266000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6276000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6286000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6296000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6306000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6316000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6326000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6336000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6346000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6356000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6366000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6376000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6386000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6396000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6406000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6416000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6426000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6436000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6446000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6456000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6466000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6476000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6486000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6496000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6506000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6516000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6526000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6536000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6546000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6556000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6566000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6576000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6586000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6596000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6606000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6616000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6626000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6636000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6646000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6656000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6666000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6676000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6686000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6696000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6706000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6716000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6726000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6736000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6746000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6756000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6766000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6776000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6786000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6796000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6806000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6816000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6826000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6836000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6846000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6856000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6866000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6876000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6886000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6896000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6906000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6916000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6926000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6936000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6946000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6956000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6966000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6976000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6986000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6996000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7006000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7016000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7026000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7036000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7046000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7056000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7066000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7076000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7086000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7096000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7106000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7116000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7126000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7136000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7146000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7156000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7166000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7176000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7186000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7196000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7206000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7216000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7226000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7236000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7246000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7256000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7266000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7276000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7286000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7296000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7306000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7316000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7326000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7336000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7346000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7356000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7366000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7376000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7386000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7396000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7406000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7416000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7426000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7436000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7446000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7456000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7466000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7476000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7486000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7496000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7506000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7516000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7526000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7536000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7546000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7556000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7566000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7576000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7586000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7596000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7606000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7616000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7626000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7636000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7646000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7656000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7666000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7676000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7686000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7696000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7706000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7716000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7726000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7736000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7746000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7756000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7766000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7776000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7786000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7796000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7806000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7816000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7826000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7836000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7846000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7856000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7866000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7876000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7886000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7896000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7906000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7916000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7926000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7936000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7946000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7956000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7966000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7976000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7986000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7996000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8006000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8016000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8026000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8036000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8046000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8056000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8066000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8076000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8086000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8096000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8106000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8116000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8126000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8136000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8146000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8156000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8166000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8176000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8186000 ns] [PASS] UNLOCKED <--- State  correct digit 
+[8196000 ns] [PASS] UNLOCKED <--- State  correct digit 
+[8206000 ns] [PASS] UNLOCKED <--- State  correct digit 
+[8216000 ns] [PASS] UNLOCKED <--- State  correct digit 
+$finish called at time : 8216 ns : File "D:/Homework_7/Lock/Lock.srcs/sim_1/new/lock_controller_tb.sv" Line 88
+[20000 ns] after reset state ---> LOCKED (expected LOCKED)
+[25000 ns] digit_clean state ----> xxxx
+[26000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[36000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[46000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[56000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[66000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[76000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[86000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[96000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[106000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[116000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[126000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[136000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[146000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[156000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[166000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[176000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[186000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[196000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[206000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[216000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[226000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[236000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[246000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[256000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[266000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[276000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[286000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[296000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[306000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[316000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[326000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[336000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[346000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[356000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[366000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[376000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[386000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[396000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[406000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[416000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[426000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[436000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[446000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[456000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[466000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[476000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[486000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[496000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[506000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[516000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[526000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[536000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[546000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[556000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[566000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[576000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[586000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[596000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[606000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[616000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[626000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[636000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[646000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[656000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[666000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[676000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[686000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[696000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[706000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[716000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[726000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[736000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[746000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[756000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[766000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[776000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[786000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[796000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[806000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[816000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[826000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[836000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[846000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[856000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[866000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[876000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[886000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[896000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[906000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[916000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[926000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[936000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[946000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[956000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[966000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[976000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[986000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[996000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1006000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1016000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1026000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1036000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1046000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1056000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1066000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1076000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1086000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1096000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1106000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1116000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1126000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1136000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1146000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1156000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1166000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1176000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1186000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1196000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1206000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1216000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1226000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1236000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1246000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1256000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1266000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1276000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1286000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1296000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1306000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1316000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1326000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1336000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1346000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1356000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1366000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1376000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1386000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1396000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1406000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1416000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1426000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1436000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1446000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1456000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1466000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1476000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1486000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1496000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1506000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1516000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1526000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1536000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1546000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1556000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1566000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1576000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1586000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1596000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1606000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1616000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1626000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1636000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1646000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1656000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1666000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1676000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1686000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1696000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1706000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1716000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1726000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1736000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1746000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1756000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1766000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1776000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1786000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1796000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1806000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1816000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1826000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1836000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1846000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1856000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1866000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1876000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1886000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1896000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1906000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1916000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1926000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1936000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1946000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1956000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1966000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1976000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1986000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[1996000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2006000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2016000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2026000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2036000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2046000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2056000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2066000 ns] [FAIL] digit = 4 | expected=WAIT_D2 | got=LOCKED | wrong first digit
+[2076000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2086000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2096000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2106000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2116000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2126000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2136000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2146000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2156000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2166000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2176000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2186000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2196000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2206000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2216000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2226000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2236000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2246000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2256000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2266000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2276000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2286000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2296000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2306000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2316000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2326000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2336000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2346000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2356000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2366000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2376000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2386000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2396000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2406000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2416000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2426000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2436000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2446000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2456000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2466000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2476000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2486000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2496000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2506000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2516000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2526000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2536000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2546000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2556000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2566000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2576000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2586000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2596000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2606000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2616000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2626000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2636000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2646000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2656000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2666000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2676000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2686000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2696000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2706000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2716000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2726000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2736000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2746000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2756000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2766000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2776000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2786000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2796000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2806000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2816000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2826000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2836000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2846000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2856000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2866000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2876000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2886000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2896000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2906000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2916000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2926000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2936000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2946000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2956000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2966000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2976000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2986000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[2996000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3006000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3016000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3026000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3036000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3046000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3056000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3066000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3076000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3086000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3096000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3106000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3116000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3126000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3136000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3146000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3156000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3166000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3176000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3186000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3196000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3206000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3216000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3226000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3236000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3246000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3256000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3266000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3276000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3286000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3296000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3306000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3316000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3326000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3336000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3346000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3356000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3366000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3376000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3386000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3396000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3406000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3416000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3426000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3436000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3446000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3456000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3466000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3476000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3486000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3496000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3506000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3516000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3526000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3536000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3546000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3556000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3566000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3576000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3586000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3596000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3606000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3616000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3626000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3636000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3646000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3656000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3666000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3676000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3686000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3696000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3706000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3716000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3726000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3736000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3746000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3756000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3766000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3776000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3786000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3796000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3806000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3816000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3826000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3836000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3846000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3856000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3866000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3876000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3886000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3896000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3906000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3916000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3926000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3936000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3946000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3956000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3966000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3976000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3986000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[3996000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4006000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4016000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4026000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4036000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4046000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4056000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4066000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4076000 ns] [FAIL] digit = 5 | expected=WAIT_D2 | got=LOCKED | correct digit
+[4086000 ns] [PASS] WAIT_D2 <--- State  correct digit 
+[4096000 ns] [PASS] WAIT_D2 <--- State  correct digit 
+[4106000 ns] [PASS] WAIT_D2 <--- State  correct digit 
+[4116000 ns] [PASS] WAIT_D2 <--- State  correct digit 
+[4126000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4136000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4146000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4156000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4166000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4176000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4186000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4196000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4206000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4216000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4226000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4236000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4246000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4256000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4266000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4276000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4286000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4296000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4306000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4316000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4326000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4336000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4346000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4356000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4366000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4376000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4386000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4396000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4406000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4416000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4426000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4436000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4446000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4456000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4466000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4476000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4486000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4496000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4506000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4516000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4526000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4536000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4546000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4556000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4566000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4576000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4586000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4596000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4606000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4616000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4626000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4636000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4646000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4656000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4666000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4676000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4686000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4696000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4706000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4716000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4726000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4736000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4746000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4756000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4766000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4776000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4786000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4796000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4806000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4816000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4826000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4836000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4846000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4856000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4866000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4876000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4886000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4896000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4906000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4916000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4926000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4936000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4946000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4956000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4966000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4976000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4986000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[4996000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5006000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5016000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5026000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5036000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5046000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5056000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5066000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5076000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5086000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5096000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5106000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5116000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5126000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5136000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5146000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5156000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5166000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5176000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5186000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5196000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5206000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5216000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5226000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5236000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5246000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5256000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5266000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5276000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5286000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5296000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5306000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5316000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5326000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5336000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5346000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5356000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5366000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5376000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5386000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5396000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5406000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5416000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5426000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5436000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5446000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5456000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5466000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5476000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5486000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5496000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5506000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5516000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5526000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5536000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5546000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5556000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5566000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5576000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5586000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5596000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5606000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5616000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5626000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5636000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5646000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5656000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5666000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5676000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5686000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5696000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5706000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5716000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5726000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5736000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5746000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5756000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5766000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5776000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5786000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5796000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5806000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5816000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5826000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5836000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5846000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5856000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5866000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5876000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5886000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5896000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5906000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5916000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5926000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5936000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5946000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5956000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5966000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5976000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5986000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[5996000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6006000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6016000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6026000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6036000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6046000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6056000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6066000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6076000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6086000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6096000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6106000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6116000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6126000 ns] [FAIL] digit = 3 | expected=WAIT_D3 | got=WAIT_D2 | correct digit
+[6136000 ns] [PASS] WAIT_D3 <--- State  correct digit 
+[6146000 ns] [PASS] WAIT_D3 <--- State  correct digit 
+[6156000 ns] [PASS] WAIT_D3 <--- State  correct digit 
+[6166000 ns] [PASS] WAIT_D3 <--- State  correct digit 
+[6176000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6186000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6196000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6206000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6216000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6226000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6236000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6246000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6256000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6266000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6276000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6286000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6296000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6306000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6316000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6326000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6336000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6346000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6356000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6366000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6376000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6386000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6396000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6406000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6416000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6426000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6436000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6446000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6456000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6466000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6476000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6486000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6496000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6506000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6516000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6526000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6536000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6546000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6556000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6566000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6576000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6586000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6596000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6606000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6616000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6626000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6636000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6646000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6656000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6666000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6676000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6686000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6696000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6706000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6716000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6726000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6736000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6746000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6756000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6766000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6776000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6786000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6796000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6806000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6816000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6826000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6836000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6846000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6856000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6866000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6876000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6886000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6896000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6906000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6916000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6926000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6936000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6946000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6956000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6966000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6976000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6986000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[6996000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7006000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7016000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7026000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7036000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7046000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7056000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7066000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7076000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7086000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7096000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7106000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7116000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7126000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7136000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7146000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7156000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7166000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7176000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7186000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7196000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7206000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7216000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7226000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7236000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7246000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7256000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7266000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7276000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7286000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7296000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7306000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7316000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7326000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7336000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7346000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7356000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7366000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7376000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7386000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7396000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7406000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7416000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7426000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7436000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7446000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7456000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7466000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7476000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7486000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7496000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7506000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7516000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7526000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7536000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7546000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7556000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7566000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7576000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7586000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7596000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7606000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7616000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7626000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7636000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7646000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7656000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7666000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7676000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7686000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7696000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7706000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7716000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7726000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7736000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7746000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7756000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7766000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7776000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7786000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7796000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7806000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7816000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7826000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7836000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7846000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7856000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7866000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7876000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7886000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7896000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7906000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7916000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7926000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7936000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7946000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7956000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7966000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7976000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7986000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[7996000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8006000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8016000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8026000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8036000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8046000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8056000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8066000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8076000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8086000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8096000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8106000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8116000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8126000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8136000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8146000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8156000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8166000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8176000 ns] [FAIL] digit = 7 | expected=UNLOCKED | got=WAIT_D3 | correct digit
+[8186000 ns] [PASS] UNLOCKED <--- State  correct digit 
+[8196000 ns] [PASS] UNLOCKED <--- State  correct digit 
+[8206000 ns] [PASS] UNLOCKED <--- State  correct digit 
+[8216000 ns] [PASS] UNLOCKED <--- State  correct digit 
+$finish called at time : 8216 ns : File "D:/Homework_7/Lock/Lock.srcs/sim_1/new/lock_controller_tb.sv" Line 88

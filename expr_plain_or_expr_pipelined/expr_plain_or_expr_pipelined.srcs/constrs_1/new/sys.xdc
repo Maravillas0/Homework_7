@@ -1,0 +1,1 @@
+create_clock -period 3.600 -name sys_clk [get_ports clk]

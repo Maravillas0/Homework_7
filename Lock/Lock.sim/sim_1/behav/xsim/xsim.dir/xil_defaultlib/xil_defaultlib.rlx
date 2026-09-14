@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/Homework_7/Lock/Lock.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+D:/Homework_7/Lock/Lock.srcs/sim_1/new/lock_controller_tb.sv,1789374448,systemVerilog,,,,lock_controller_tb,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Homework_7/Lock/Lock.srcs/sources_1/new/debounce.sv,1789374200,systemVerilog,D:/Homework_7/Lock/Lock.srcs/sim_1/new/lock_controller_tb.sv;D:/Homework_7/Lock/Lock.srcs/sources_1/new/lock_controller.sv,D:/Homework_7/Lock/Lock.srcs/sources_1/new/lock_pkg.sv,,$unit_debounce_sv_1400011585;debounce,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Homework_7/Lock/Lock.srcs/sources_1/new/lock_controller.sv,1789374269,systemVerilog,,D:/Homework_7/Lock/Lock.srcs/sim_1/new/lock_controller_tb.sv,,lock_controller,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Homework_7/Lock/Lock.srcs/sources_1/new/lock_pkg.sv,1789039642,systemVerilog,D:/Homework_7/Lock/Lock.srcs/sources_1/new/debounce.sv,D:/Homework_7/Lock/Lock.srcs/sources_1/new/lock_controller.sv,,lock_pkg,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
